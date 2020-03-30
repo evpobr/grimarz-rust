@@ -1,0 +1,12 @@
+[package]
+name = "grimarz"
+description = "Grim Dawn Database File Extractor (Rust edition)"
+version = "0.1.0"
+authors = ["evpobr <evpobr@gmail.com>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/evpobr/grimarz-rust.git"
+
+[dependencies]
+byteorder = "1"
+clap = "2.33"
